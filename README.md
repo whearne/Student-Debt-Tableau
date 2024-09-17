@@ -1,4 +1,4 @@
-# Student Debt Dashboard
+# Student Debt Dashboard ![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white)
 This Tableau project provides an analytical view of student debt over time, its impact on homeownership rates, and trends in borrowing by age and amount. The dashboard offers insights into the financial challenges faced by borrowers and the growing burden of student loans.
 
 ## Dashboard Overview
