@@ -2,6 +2,7 @@
 This Tableau project provides an analytical view of student debt over time, its impact on homeownership rates, and trends in borrowing by age and amount. The dashboard offers insights into the financial challenges faced by borrowers and the growing burden of student loans.
 
 ## Dashboard Overview
+[View the Tableau Dashboard here](https://public.tableau.com/app/profile/william.hearne/viz/StudentDebtDashboard_17255936697940/Dashboard1).
 ### 1. **Homeownership Rates for 30-Year-Olds**
 - **Visualisation**: Line chart
 - **Details**: Shows the trend in homeownership rates for 30-year-olds from 2002 to 2015, with separate lines for those with and without student loans.
